@@ -1,2 +1,2 @@
-# United-Team-Samples-Soundfonts-Megacollection
-holy moly
+Some files will not be available due to GitHub's hard limit of only allowing files under 100 MegaBytes.
+As such, all of these files have been listed in the .gitignore file with their corresponding download links next to them.
